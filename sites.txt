@@ -1,0 +1,4 @@
+https://httpbin.org/status/404
+https://httpbin.org/status/202
+https://www.alura.com.br
+https://caelum.com.br
